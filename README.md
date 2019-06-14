@@ -94,16 +94,21 @@ We are looking forward to see what you come up with!
 
 
 
-### Challenge Comments
+### Challenge Comments  ####
 
 * **Fixed the blizzard bug:** Fixed the bug that was occurring when the skier crashed and the left key was pressed. Upon the skier crash and left arroy key press, the skier will get out of the obstacle it crashed into and face the left standing. 
-
-* **Wrote initial unit tests to ensure the blizzard doesn't return:** I wrote unit tests to test the turning and moving capabilities of the skier
 
 * **Added Skier Jumping Ability :** The skier can now jump upon hitting a ramp_jump obstacle or when space key is pressed. The skier can jump over rocks if its in jumping mode upon hitting rocks but cannot avoid colliding with trees as is required.
 
 * **Rhino Chase and eat:** This new functionality was implemented partially.As such the Rhino cannot chase and eat the skier.
 
-* **Challenge Delivery:** I created a [Github Repo](https://github.com/09arnold/ceroski) for the challenge to make it available for download. I also took advantage of Github Pages to deliver the Ceros Ski Game online <a href="https://09arnold.github.io/ceroski/" target="_blank">here</a>, updated directly by pushing the dist folder from `npm run build` to the gh-pages branch, using a trick from <a href="https://medium.com/linagora-engineering/deploying-your-js-app-to-github-pages-the-easy-way-or-not-1ef8c48424b7" target="_blank">this article</a>
+* **Wrote tests for the skier functionalities:** The unit tests cover the turning and navigation and jumping functionalities of the skier
+
+* **Challenge Delivery:** The challenge solution code is available here [Github Repo](https://github.com/godfreaherald/Ceros-Ski-Game) for download. One can deploy it locally by running:
+
+npm install
+npm run dev
+
+       
 
 
