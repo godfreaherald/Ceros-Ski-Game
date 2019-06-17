@@ -104,10 +104,7 @@ We are looking forward to see what you come up with!
 
 * **Wrote tests for the skier functionalities:** The unit tests cover the turning and navigation and jumping functionalities of the skier
 
-* **Challenge Delivery:** The challenge solution code is available here [Github Repo](https://github.com/godfreaherald/Ceros-Ski-Game) for download. One can deploy it locally by running:
-
-npm install
-npm run dev
+* **Challenge Delivery:** The challenge solution code is available here [Github Repo](https://github.com/godfreaherald/Ceros-Ski-Game) for download. The solution is hosted  <a href="https://godfreaherald.github.io/Ceros-Ski-Game/" target="_blank">here</a> .
 
        
 
